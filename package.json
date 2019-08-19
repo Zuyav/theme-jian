@@ -1,0 +1,20 @@
+{
+	"name": "theme-defaults",
+	"displayName": "Theme Jian",
+	"description": "Jian's customed theme based on default Visual Studio dark themes",
+	"categories": [ "Themes" ],
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"license": "MIT",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Default Dark+",
+				"label": "Dark+ (default dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus.json"
+			}
+		]
+	}
+}

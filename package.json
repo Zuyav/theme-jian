@@ -10,8 +10,8 @@
 	"contributes": {
 		"themes": [
 			{
-				"id": "Default Dark+",
-				"label": "Dark+ (default dark)",
+				"id": "Jian Dark",
+				"label": "Jian Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_plus.json"
 			}
